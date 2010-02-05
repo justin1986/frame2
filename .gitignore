@@ -6,14 +6,5 @@ upload/*
 ~*
 *.bak
 *.png
-bbs/*
-blog/*
-ucenter/*
-home/*
-login/uc_client/*
-ey_bbs/*
-top.inc.html
-bottom.inc.html
-tools/*
 *.swf
 config/config.php
